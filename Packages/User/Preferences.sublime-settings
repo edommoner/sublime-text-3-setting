@@ -11,5 +11,6 @@
 	"material_theme_disable_tree_indicator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
-	"theme": "Material-Theme.sublime-theme"
+	"theme": "Material-Theme.sublime-theme",
+	"font_face": "Source Han Code JP N"
 }
