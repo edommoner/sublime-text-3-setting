@@ -1,0 +1,51 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Compass",
+		"ConvertToUTF8",
+		"CSS Format",
+		"CTags",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"FindKeyConflicts",
+		"Goto-CSS-Declaration",
+		"Hayaku - tools for writing CSS faster",
+		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"IMESupport",
+		"InputSequence",
+		"Japanize",
+		"jQuery",
+		"List stylesheet variables",
+		"Material Theme",
+		"Package Control",
+		"random-sublime-text-plugin",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeCodic",
+		"SublimeDataConverter",
+		"SublimeLinter",
+		"SyncedSideBar",
+		"Theme - Flatland",
+		"TrailingSpaces",
+		"Worksheet"
+	],
+	"repositories":
+	[
+		"https://bitbucket.org/dat/sublimecodic",
+		"https://github.com/kazu1107/InputSequence",
+		"https://github.com/kimpettersen/random-sublime-text-plugin.git",
+		"https://github.com/fitnr/SublimeDataConverter.git"
+	]
+}

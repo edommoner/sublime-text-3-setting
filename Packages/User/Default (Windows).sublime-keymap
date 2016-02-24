@@ -1,0 +1,11 @@
+[
+  {
+    "keys": ["alt+t"], "command": "codic_translate_string"
+  },
+  {
+    "keys": ["alt+i"], "command": "codic_input_string"
+  },
+  {
+    "keys": ["ctrl+shift+1"], "command": "input_sequence"
+  }
+]
