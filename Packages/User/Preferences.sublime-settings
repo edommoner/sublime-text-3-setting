@@ -1,9 +1,24 @@
 {
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"font_face": "Source Han Code JP N",
+	"font_options":
+	[
+		"gray_antialias",
+		"subpixel_antialias"
+	],
 	"font_size": 10,
 	"ignored_packages":
 	[
+		"Abacus",
+		"SyncedSideBar",
 		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
 	],
 	"material_theme_bold_tab": true,
 	"material_theme_disable_fileicons": false,
@@ -11,6 +26,7 @@
 	"material_theme_disable_tree_indicator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
-	"theme": "Material-Theme.sublime-theme",
-	"font_face": "Source Han Code JP N"
+	"material_theme_tree_headings": true,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Material-Theme.sublime-theme"
 }

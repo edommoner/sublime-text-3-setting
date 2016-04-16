@@ -10,5 +10,7 @@
   },
   {
     "keys": ["ctrl+shift+c"], "command": "color_highlighter.color_picker"
-  }
+  },
+  { "keys": ["ctrl+u"], "command": "upper_case" },
+  { "keys": ["ctrl+l"], "command": "lower_case" }
 ]
