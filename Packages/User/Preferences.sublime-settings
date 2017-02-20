@@ -1,8 +1,14 @@
 {
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-	"font_size": 10,
+	"font_face": "Source Han Code JP N",
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 9,
 	"ignored_packages":
 	[
+		"FindKeyConflicts",
 		"Vintage"
 	],
 	"material_theme_bold_tab": true,
@@ -11,6 +17,6 @@
 	"material_theme_disable_tree_indicator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
-	"theme": "Material-Theme.sublime-theme",
-	"font_face": "Source Han Code JP N"
+	"show_encoding": true,
+	"theme": "Material-Theme.sublime-theme"
 }
